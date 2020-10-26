@@ -1,4 +1,4 @@
-## Aplicación del Clima - Curso Node
+## Aplicación del Clima - Node
 
 Recordar ejecutar 
 
